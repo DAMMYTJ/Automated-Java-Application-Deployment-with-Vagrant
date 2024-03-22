@@ -1,3 +1,6 @@
+
+<img width="1053" alt="vprofile" src="https://github.com/DAMMYTJ/vprofile-project/assets/111458165/c848fa32-effe-40da-b603-543f447de269">
+
 # Prerequisites
 #
 - JDK 11 
